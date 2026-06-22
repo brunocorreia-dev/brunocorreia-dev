@@ -2,7 +2,7 @@
 
 Backend developer focused on Java and Spring Boot, building real-world projects while pursuing a Software Engineering degree at UNINTER. Working toward remote backend roles with international teams.
 
-Currently building **[Docgen](https://github.com/brunocorreia-dev/Docgen)** — a CLI tool that scans code repositories and auto-generates `README.md` and architecture documentation using LLMs (Gemini + Ollama).
+Currently building **[Docgen](https://github.com/brunocorreia-dev/Docgen)** — a CLI tool that scans code repositories and auto-generates `README.md` and architecture documentation using LLMs (Groq + Ollama).
 
 ---
 
@@ -27,13 +27,13 @@ Currently building **[Docgen](https://github.com/brunocorreia-dev/Docgen)** — 
 
 | Project | Description | Stack |
 |---|---|---|
-| [Docgen](https://github.com/brunocorreia-dev/Docgen) | CLI tool that generates README and Mermaid architecture diagrams from any codebase using AI | Java 21 · Picocli · Gemini API · Ollama |
+| [Docgen](https://github.com/brunocorreia-dev/Docgen) | CLI tool that generates README and Mermaid architecture diagrams from any codebase using AI | Java 21 · Picocli · Groq API · Ollama |
 
 ---
 
 ## Goals for 2026
 
-- [ ] Ship Docgen v1.0 with stable Gemini + Ollama support
+- [ ] Ship Docgen v1.1 with Groq + Ollama support
 - [ ] Build a production-ready REST API (Spring Boot + PostgreSQL + Docker)
 - [ ] Contribute to an open source Java project
 - [ ] Land a remote backend role
