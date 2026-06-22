@@ -1,16 +1,46 @@
-## Hi there 👋
+# Bruno Correia 🇧🇷
 
-<!--
-**brunocorreia-dev/brunocorreia-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer focused on Java and Spring Boot, building real-world projects while pursuing a Software Engineering degree at UNINTER. Working toward remote backend roles with international teams.
 
-Here are some ideas to get you started:
+Currently building **[Docgen](https://github.com/brunocorreia-dev/Docgen)** — a CLI tool that scans code repositories and auto-generates `README.md` and architecture documentation using LLMs (Gemini + Ollama).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+
+**Languages & Frameworks**
+- Java 21 · Spring Boot · Maven
+- SQL · PostgreSQL
+
+**Tooling & Infrastructure**
+- Docker · GitHub Actions
+- Git · Linux (Arch)
+
+**Currently Learning**
+- Spring Security · JWT authentication
+- Integration testing with Testcontainers
+- System design & software architecture
+
+---
+
+## Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [Docgen](https://github.com/brunocorreia-dev/Docgen) | CLI tool that generates README and Mermaid architecture diagrams from any codebase using AI | Java 21 · Picocli · Gemini API · Ollama |
+
+---
+
+## Goals for 2026
+
+- [ ] Ship Docgen v1.0 with stable Gemini + Ollama support
+- [ ] Build a production-ready REST API (Spring Boot + PostgreSQL + Docker)
+- [ ] Contribute to an open source Java project
+- [ ] Land a remote backend role
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bruno-correia-312326317)
+[![GitHub](https://img.shields.io/badge/GitHub-brunocorreia--dev-181717?style=flat&logo=github)](https://github.com/brunocorreia-dev)
