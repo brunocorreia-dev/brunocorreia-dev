@@ -1,96 +1,89 @@
-# Bruno Correia 🇧🇷
+<!--
+  README de perfil do GitHub — brunocorreia-dev
+  Comentários HTML como este NÃO aparecem no perfil; servem só como guia de edição.
+-->
 
-### ☕ Java Engineer &nbsp;→&nbsp; 🤖 AI Engineer
+<!-- ==================== 1. TÍTULO E APRESENTAÇÃO ==================== -->
+<!-- Troque o emoji 👋 por outro de sua preferência (☕, 🚀, 💻...). -->
+# Olá, eu sou o Bruno Correia 👋
 
-**Software Engineering** — working with **Java** and the **Spring Ecosystem**, focused on clean, secure and fast architecture.
+<!-- O subtítulo usa negrito + formatação de código. Para mudar o cargo, edite o texto entre as crases. -->
+### **`Desenvolvedor Back-end Java`** ☕
 
-My path is the bridge between the two worlds: solid **Java backend** as the foundation, and **AI Engineering** as the direction — building LLM-powered applications that are reliable, private and production-ready.
+<!-- Biografia: mantenha 2 a 4 frases. Os links abaixo são clicáveis; troque as URLs se mudar de rede. -->
+Sou desenvolvedor back-end apaixonado pelo ecossistema **Java** e **Spring**, focado em construir APIs limpas, seguras e performáticas. Atualmente estou criando o [Docgen](https://github.com/brunocorreia-dev/docgen), uma ferramenta que gera documentação de código com LLMs rodando localmente, e estudando integração de IA em aplicações Java.
 
-> **Java** builds the backbone. **AI** makes it intelligent.
+📫 Vamos conversar? Me encontre no [LinkedIn](https://www.linkedin.com/in/bruno-correia-312326317/) ou no [Instagram](https://www.instagram.com/brunocorreiaa__/).
 
+<!-- ==================== 2. BADGES DE MÉTRICAS E CONEXÕES ==================== -->
+<!--
+  Badges geradas pelo Shields.io. Parâmetros que você pode ajustar em cada URL:
+  - style=       for-the-badge | flat | flat-square | plastic | social
+  - label=       texto do lado esquerdo (use %20 para espaços)
+  - color=       cor do lado direito (hex sem #, ex.: 0A66C2)
+  - labelColor=  cor do lado esquerdo
+  - logo=        nome do ícone em https://simpleicons.org (ex.: linkedin, instagram, youtube)
+  - logoColor=   cor do ícone
+  Para adicionar o YouTube, copie a linha do Instagram e troque: logo=youtube, color=FF0000 e o link.
+-->
+<p align="left">
+  <a href="https://github.com/brunocorreia-dev?tab=followers">
+    <img src="https://img.shields.io/github/followers/brunocorreia-dev?label=Seguidores&style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27&color=7aa2f7" alt="Seguidores no GitHub" />
+  </a>
+  <a href="https://github.com/brunocorreia-dev?tab=repositories">
+    <img src="https://img.shields.io/github/stars/brunocorreia-dev?affiliations=OWNER&label=Estrelas&style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27&color=e0af68" alt="Total de estrelas" />
+  </a>
+  <a href="https://www.linkedin.com/in/bruno-correia-312326317/">
+    <img src="https://img.shields.io/badge/LinkedIn-Bruno%20Correia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/brunocorreiaa__/">
+    <img src="https://img.shields.io/badge/Instagram-@brunocorreiaa____-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+<!-- ==================== 3. LINGUAGENS E TECNOLOGIAS ==================== -->
 ---
 
-### Tech Stack & Tools
+### 🛠️ Linguagens e Tecnologias
 
-**Backend & Data**  
-![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+<!--
+  Ícones do Devicon: https://devicon.dev
+  - Para mudar o tamanho de TODOS os ícones, altere height="40" e width="40" em cada <img> (mantenha o mesmo valor em todos).
+  - Para adicionar uma tecnologia, copie uma linha e troque o nome nos dois pontos da URL.
+    Ex.: Docker -> .../icons/docker/docker-original.svg | PostgreSQL -> .../icons/postgresql/postgresql-original.svg
+  - O &nbsp; entre os ícones controla o espaçamento horizontal.
+-->
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" width="40" alt="Java" title="Java" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" width="40" alt="Spring Boot" title="Spring Boot" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" height="40" width="40" alt="Maven" title="Maven" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="40" alt="Git" title="Git" />
+</div>
 
-**AI Engineering**  
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-Local_Models-8A2BE2?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-412991?style=flat-square)
-
-**DevOps & Environment**  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux_Arch-1793D1?style=flat-square&logo=archlinux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-**Currently Diving Deeper Into**  
-* 🤖 **AI Engineering:** LLM integration in Java with Spring AI, RAG and embeddings
-* 🤖 Running and orchestrating local models with Ollama
-* Spring Security & JWT stateless authentication
-* Integration testing with Testcontainers & JUnit 5
-* Distributed systems & high-throughput API design
-
+<!-- ==================== 4. ESTATÍSTICAS DO GITHUB ==================== -->
 ---
 
-### 🚧 Projects in Development
+### 📊 Estatísticas no GitHub
 
-> Every project here sits at the intersection of **Java** and **AI**.
-
-#### [Docgen](https://github.com/brunocorreia-dev/docgen)
-CLI tool that scans a code repository and automatically generates documentation using a local LLM via **Ollama** — no API key, no data leaving your machine.
-
-`Java 21` `Picocli` `Ollama` `Maven`
-
-**What it already does**
-- Generates a `README.md` with a project overview based on source code analysis
-- Generates an `ARCHITECTURE.md` with a **Mermaid** diagram inferred from the codebase
-- Runs fully locally with Ollama, with configurable model and output directory
-- One-line install script and ready-to-run `.jar` via GitHub Releases
-
-**What's coming next**
-- [ ] **Graphical interface** *(in development)* — select a repository, pick a model and preview the generated docs without touching the terminal
-- [ ] **Migration to Spring Boot** with **Maven**, laying the groundwork for a modular architecture and a future REST API
-
----
-
-### 2026 Focus & Milestones
-
-- [ ] Release Docgen's graphical interface and Spring Boot version
-- [ ] Deploy a production-ready REST API with automated CI/CD and integration tests
-- [ ] Contribute to an active open-source Java/Spring ecosystem tool
-- [ ] Build hands-on foundations in Spring AI, RAG and embeddings
-- [ ] Land an international role as a Java / AI Engineer
-
----
-
-### 🚀 2027 Goals — Java × LLM Engineering
-
-**Flagship project:** a new personal **LLM-powered application built end-to-end in Java** — combining the full Java ecosystem with the core practices of LLM Engineering in a single, production-grade system.
-
-| Layer | Java Ecosystem | LLM Engineering |
-| :--- | :--- | :--- |
-| **Core** | Java 21, Spring Boot, Maven | Spring AI / LangChain4j, local models via Ollama |
-| **Data & Knowledge** | Spring Data | RAG pipeline, embeddings & vector database |
-| **Intelligence** | REST APIs, clean architecture | Function calling, AI agents, prompt engineering |
-| **Security** | Spring Security & JWT | Guardrails, prompt-injection protection, private data stays local |
-| **Quality** | JUnit 5 & Testcontainers | LLM evaluation (accuracy, hallucination, latency) |
-| **Delivery** | GitHub Actions CI/CD | Observability of tokens, cost and response quality |
-
-**Milestones**
-- [ ] Design and launch the flagship Java × LLM project as open source
-- [ ] Implement a complete RAG pipeline with embeddings and a vector database
-- [ ] Add AI agents with function calling integrated into Spring Boot services
-- [ ] Ship with automated tests, LLM evaluations and CI/CD from day one
-- [ ] Bring RAG and agents into Docgen, evolving it into a smarter documentation assistant
-- [ ] Consolidate my profile as a **Java AI Engineer**
-
----
-
-### Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/brunocorreia-dev)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/brunocorreia-dev)
+<!--
+  Cards do github-readme-stats: https://github.com/anuraghazra/github-readme-stats
+  Parâmetros úteis:
+  - theme=          tokyonight | radical | dracula | github_dark | onedark ...
+  - locale=pt-br    textos em português
+  - count_private=true  inclui commits privados (só funciona em instância própria com seu token; veja a nota abaixo)
+  - show_icons=true     mostra ícones ao lado de cada métrica
+  - hide_border=true    remove a borda do card
+  - layout=compact      deixa o card de linguagens compacto
+  - langs_count=6       quantidade de linguagens exibidas (máx. 20)
+  - height="170"        altura do card na tag <img>; mantenha igual nos dois para ficarem alinhados
+  Nota: a instância pública (github-readme-stats.vercel.app) às vezes fica fora do ar por limite de uso.
+  Se os cards não carregarem, faça deploy da sua própria instância na Vercel e troque o domínio nas URLs.
+-->
+<div align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=brunocorreia-dev&show_icons=true&count_private=true&include_all_commits=true&locale=pt-br&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub de Bruno Correia" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocorreia-dev&layout=compact&langs_count=6&locale=pt-br&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+  </a>
+</div>
