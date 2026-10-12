@@ -70,6 +70,7 @@ Sou desenvolvedor back-end apaixonado pelo ecossistema **Java** e **Spring**, fo
   Parâmetros úteis:
   - theme=          tokyonight | radical | dracula | github_dark | onedark ...
   - locale=pt-br    textos em português
+  - (sem include_all_commits) o card conta só os commits do ano atual; use commits_year=2025 para um ano específico
   - count_private=true  inclui commits privados (só funciona em instância própria com seu token; veja a nota abaixo)
   - show_icons=true     mostra ícones ao lado de cada métrica
   - hide_border=true    remove a borda do card
@@ -81,7 +82,7 @@ Sou desenvolvedor back-end apaixonado pelo ecossistema **Java** e **Spring**, fo
 -->
 <div align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=brunocorreia-dev&show_icons=true&count_private=true&include_all_commits=true&locale=pt-br&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub de Bruno Correia" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=brunocorreia-dev&show_icons=true&count_private=true&locale=pt-br&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub de Bruno Correia" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocorreia-dev&layout=compact&langs_count=6&locale=pt-br&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
